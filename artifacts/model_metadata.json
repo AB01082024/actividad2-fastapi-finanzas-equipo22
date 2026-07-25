@@ -1,0 +1,18 @@
+{
+  "model_version": "random_forest_v1",
+  "trained_at": "2026-07-25T01:36:30.887780",
+  "symbols_used": [
+    "AAPL",
+    "MSFT",
+    "TSLA"
+  ],
+  "features": [
+    "return",
+    "ma_5",
+    "ma_20",
+    "volatility"
+  ],
+  "target": "target",
+  "accuracy": 0.5621,
+  "prediction_horizon": "next_day"
+}
